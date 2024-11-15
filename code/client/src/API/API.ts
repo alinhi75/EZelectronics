@@ -1,4 +1,3 @@
-import { User } from "../Components/Login/UserContext";
 import { Product } from "../Models/product";
 import { UserInfo } from "../Models/user";
 
